@@ -1,4 +1,4 @@
-# Simplest CRUD example with React and Supabase
+# Simplest CRUD example with React and Supabase.
 
 This project is just a project example to learn how to use Supabase with React.
 
@@ -76,12 +76,28 @@ npm start
 Enjoy!!!
 
 
+## Deployment in Vercel
+
+To deploy this project in Vercel you can do it following this steps:
+
+- Step 1: Create an account in Vercel
+- Step 2: Use Github to upload your project.
+- Step 3: Import your project from Github in Vercel
+- Step 4: Configure the 2 environment variables you need for this project.
+
+![Screenshot](/screenshots/screenshot-04.png)
+
+- Step 5: Enjoy your project.
+
+In my case this is the demo project: https://supabase-crud-tau.vercel.app/
+
 ## Built With
 
 * [Visual Studio Code](https://code.visualstudio.com/) - The Editor used in this project
 * [Node.js](https://nodejs.org/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [supabase](https://supabase.com/) - Supabase is an open source Firebase alternative.
 * [Vite](https://vitejs.dev/) - Vite (French word for "quick", pronounced /vit/, like "veet") is a build tool that aims to provide a faster and leaner development experience for modern web projects.
+* [Vercel](https://vercel.com/) - Vercel is the Frontend Cloud. Build, scale, and secure a faster, personalized web.
 
 ## Acknowledgments
 

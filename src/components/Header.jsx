@@ -6,6 +6,7 @@ function Header() {
       <ul>
         <li><a href="/">Home</a></li>
         <li><a href="/bicycle-add">New Bicycle</a></li>
+        <li><a href="/restore-demo-values">Demo Values</a></li>
       </ul>
     </div>
   )
