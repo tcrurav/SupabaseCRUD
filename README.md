@@ -55,7 +55,11 @@ cd SupabaseCRUD
 npm install
 ```
 
-Now create the .env file. You can copy from the example file .env.example. You must look for the correct project ref and the supabase anonyme key of your supabase project.
+You must look for the correct project ref and the supabase anon key of your supabase project.
+
+![Screenshot](/screenshots/screenshot-03.png)
+
+Now create the .env file. You can copy from the example file .env.example. And put the correct project-ref and supabase anon key. 
 
 ```
 VITE_SUPABASE_URL=https://<project-ref>.supabase.co
